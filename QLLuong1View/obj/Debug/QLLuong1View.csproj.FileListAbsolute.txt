@@ -1,0 +1,10 @@
+D:\Workspace_Data\Visual Studio\QLLuong1View\bin\Debug\QLLuong1View.exe.config
+D:\Workspace_Data\Visual Studio\QLLuong1View\bin\Debug\QLLuong1View.exe
+D:\Workspace_Data\Visual Studio\QLLuong1View\bin\Debug\QLLuong1View.pdb
+D:\Workspace_Data\Visual Studio\QLLuong1View\obj\Debug\QLLuong1View.csproj.AssemblyReference.cache
+D:\Workspace_Data\Visual Studio\QLLuong1View\obj\Debug\QLLuong1View.Form1.resources
+D:\Workspace_Data\Visual Studio\QLLuong1View\obj\Debug\QLLuong1View.Properties.Resources.resources
+D:\Workspace_Data\Visual Studio\QLLuong1View\obj\Debug\QLLuong1View.csproj.GenerateResource.cache
+D:\Workspace_Data\Visual Studio\QLLuong1View\obj\Debug\QLLuong1View.csproj.CoreCompileInputs.cache
+D:\Workspace_Data\Visual Studio\QLLuong1View\obj\Debug\QLLuong1View.exe
+D:\Workspace_Data\Visual Studio\QLLuong1View\obj\Debug\QLLuong1View.pdb
